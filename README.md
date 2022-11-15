@@ -1,10 +1,6 @@
-<img
-  src="wordcloud.jpg"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
-
 Hi there 👋,
+
+<span style="color:blue">some *Hlello Hi There* text</span>
 
 I am learning Python and GIT 
 
