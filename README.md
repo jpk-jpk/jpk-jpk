@@ -1,10 +1,12 @@
-### Hi there 👋
 <img
   src="wordcloud.jpg"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 - 🌱 I’m currently learning Python and GIT 
+
+### Hi there 👋,
+I am learning Python and GIT 
 <!--
 **jpk-jpk/jpk-jpk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
