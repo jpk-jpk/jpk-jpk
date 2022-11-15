@@ -3,10 +3,18 @@
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
-- 🌱 I’m currently learning Python and GIT 
 
-### Hi there 👋,
+Hi there 👋,
+
 I am learning Python and GIT 
+
+Projects in Progress:
+
+TIME MY MODULE 
+
+FIND MY CHEMCIAL
+
+
 <!--
 **jpk-jpk/jpk-jpk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
