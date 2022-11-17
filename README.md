@@ -1,7 +1,5 @@
 Hi there 👋,
 
-<span style="color:blue">some *Hlello Hi There* text</span>
-
 I am learning Python and GIT 
 
 Projects in Progress:
